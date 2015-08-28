@@ -1,0 +1,36 @@
+/*css file*/
+nav{
+	font-family: Georgia, serif;
+	background: #aaaaaa;
+	width: 60%;
+	margin: 20 auto;         ;
+}
+
+float: left;ul{
+   float: left;
+   list-style: none;
+   margin: 0;
+   padding: 0;
+   display:  inline;
+
+}
+li{
+	display: inline;
+    margin:  20px;
+
+}
+
+
+a{
+	 text-decoration: none;
+     color: white;
+     display: block;
+     font-weight: bold;
+     font-size: 1.3em;
+     text-shadow: 0-2px 2px rgba (0,0,0,,0, 4);
+
+    
+
+
+
+}
