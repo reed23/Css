@@ -1,25 +1,37 @@
+.wrapper{
+    width:770px;
+    margin:0 auto;
+}
+
+
 .red{
-	height: px;
+	height: 100px;
 	background-color: red;
-	color:both;
-    margin-bottom: 100px;
+	clear:both;
+    margin-bottom: 20px;
 }
 
 #blue{
-	height: 100px;
+	width:33%;
+	height: 650px;
 	background-color: blue;
-
-}
+    float:right;
+    margin-bottom: 20px 
+    }
 
 #green{ 
-	height: 100px;
+    width:33%;
+    height: 650px;
 	background-color: green;
+    float:right;
+    margin-bottom: 20px
     
 }
 
 #yellow{
-	
-	height:   100px;
+	width:33%;
+	height:   650px;
     background-color: yellow;
+    margin-bottom: 20px;
     
 }
